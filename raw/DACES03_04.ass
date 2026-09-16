@@ -245,29 +245,6 @@ Dialogue: 5,0:24:06.84,0:24:12.06,Default,@Miyuki,0,0,0,,I wonder what new chall
 Dialogue: 5,0:24:12.06,0:24:14.56,Default,@Kuramochi,0,0,0,,Next time on Ace of the Diamond act II:
 Dialogue: 5,0:24:14.93,0:24:16.18,Default,@Kuramochi,0,0,0,,"Joining."
 Dialogue: 5,0:24:16.18,0:24:18.39,Default,@Kuramochi,0,0,0,,Let's win the national title!
-Dialogue: 5,0:00:34.01,0:00:35.93,Default,Announcer,0,0,0,,{\an8}And that's strike three!
-Dialogue: 5,0:00:35.93,0:00:40.39,Default,Announcer,0,0,0,,{\an8}He takes down Seidou's top three batters in an incredible start!
-Dialogue: 5,0:00:40.39,0:00:43.19,Default,Announcer,0,0,0,,{\an8}He has yet to allow a run at Koushien Stadium!
-Dialogue: 5,0:00:45.36,0:00:46.98,Default,Announcer,0,0,0,,{\an8}A strong hit between shortstop and third!
-Dialogue: 5,0:00:49.95,0:00:56.87,Default,Announcer,0,0,0,,{\an8}After giving up two runs in the first, \NSeidou's ace Furuya Satoru has been showing real tenacity.
-Dialogue: 5,0:01:59.81,0:02:02.48,Default,Announcer,0,0,0,,{\an8}Now it's time for the cleanup hitter Miyuki's third at-bat!
-Dialogue: 5,0:02:18.24,0:02:19.83,Default,Announcer,0,0,0,,{\an8}Miyuki connects!
-Dialogue: 5,0:02:33.63,0:02:35.93,Default,Announcer,0,0,0,,{\an8}Can they make use of this opportunity?
-Dialogue: 5,0:02:52.03,0:02:53.32,Default,Announcer,0,0,0,,{\an8}It fell off the table!
-Dialogue: 5,0:02:53.32,0:02:55.15,Default,Announcer,0,0,0,,{\an8}He goes down swinging!
-Dialogue: 5,0:02:56.74,0:03:01.16,Default,Announcer,0,0,0,,{\an8}Komadai's Hongou again leaves Seidou scoreless!
-Dialogue: 5,0:04:49.39,0:04:52.02,Default,Announcer,0,0,0,,{\an8}It's the fourth game of the spring invitational quarterfinals.
-Dialogue: 5,0:04:52.02,0:04:54.02,Default,Announcer,0,0,0,,{\an8}The score has remained 0-2 since the first inning.
-Dialogue: 5,0:04:54.02,0:04:56.53,Default,Announcer,0,0,0,,{\an8}In the bottom of the seventh,\N Komadai Fujimaki is now up to bat.
-Dialogue: 5,0:05:10.96,0:05:13.96,Default,Announcer,0,0,0,,{\an8}Up at bat is their ace, Hongou Masamune!
-Dialogue: 5,0:05:39.24,0:05:41.49,Default,Announcer,0,0,0,,{\an8}Swing and a miss on an outside pitch!
-Dialogue: 5,0:06:23.53,0:06:25.16,Default,Announcer,0,0,0,,{\an8}And it's caught!
-Dialogue: 5,0:06:25.16,0:06:27.03,Default,Announcer,0,0,0,,{\an8}Right to the left fielder!
-Dialogue: 5,0:06:27.37,0:06:31.54,Default,Announcer,0,0,0,,{\an8}This round of the ace battle goes to Furuya!
-Dialogue: 5,0:06:53.43,0:06:54.81,Default,Announcer,0,0,0,,{\an8}Two in a row!
-Dialogue: 5,0:06:54.81,0:06:57.10,Default,Announcer,0,0,0,,{\an8}That's his tenth strikeout!
-Dialogue: 5,0:07:04.40,0:07:09.45,Default,Announcer,0,0,0,,{\an8}With his form improving,\N he's had perfect fifth, sixth, and seventh innings!
-Dialogue: 5,0:07:58.17,0:08:04.67,Default,Announcer,0,0,0,,{\an8}Batting first in the top of the eighth for Seidou High School is the third baseman, Kanemaru.
 Dialogue: 5,0:08:16.68,0:08:18.69,Default,Announcer,0,0,0,,{\an8}It's the ninth day of the spring invitational!
 Dialogue: 5,0:08:18.69,0:08:21.69,Default,Announcer,0,0,0,,{\an8}There are two innings left in the fourth quarterfinal game.
 Dialogue: 5,0:08:21.69,0:08:24.32,Default,Announcer,0,0,0,,{\an8}Will Seidou High School be able to catch up?
@@ -292,3 +269,26 @@ Dialogue: 5,0:12:05.62,0:12:10.21,Default,Announcer,0,0,0,,{\an8}Taking the moun
 Dialogue: 5,0:14:24.97,0:14:25.76,Default,Announcer,0,0,0,,{\an8}Strike three!
 Dialogue: 5,0:14:26.26,0:14:28.14,Default,Announcer,0,0,0,,{\an8}The last pitch was a slider!
 Dialogue: 5,0:15:19.06,0:15:21.23,Default,Announcer,0,0,0,,{\an8}Another strikeout!
+Dialogue: 5,0:00:34.01,0:00:35.93,Default,Announcer,0,0,0,,{\an8}And that's strike three!
+Dialogue: 5,0:00:35.93,0:00:40.39,Default,Announcer,0,0,0,,{\an8}He takes down Seidou's top three batters in an incredible start!
+Dialogue: 5,0:00:40.39,0:00:43.19,Default,Announcer,0,0,0,,{\an8}He has yet to allow a run at Koushien Stadium!
+Dialogue: 5,0:00:45.36,0:00:46.98,Default,Announcer,0,0,0,,{\an8}A strong hit between shortstop and third!
+Dialogue: 5,0:00:49.95,0:00:56.87,Default,Announcer,0,0,0,,{\an8}After giving up two runs in the first, \NSeidou's ace Furuya Satoru has been showing real tenacity.
+Dialogue: 5,0:01:59.81,0:02:02.48,Default,Announcer,0,0,0,,{\an8}Now it's time for the cleanup hitter Miyuki's third at-bat!
+Dialogue: 5,0:02:18.24,0:02:19.83,Default,Announcer,0,0,0,,{\an8}Miyuki connects!
+Dialogue: 5,0:02:33.63,0:02:35.93,Default,Announcer,0,0,0,,{\an8}Can they make use of this opportunity?
+Dialogue: 5,0:02:52.03,0:02:53.32,Default,Announcer,0,0,0,,{\an8}It fell off the table!
+Dialogue: 5,0:02:53.32,0:02:55.15,Default,Announcer,0,0,0,,{\an8}He goes down swinging!
+Dialogue: 5,0:02:56.74,0:03:01.16,Default,Announcer,0,0,0,,{\an8}Komadai's Hongou again leaves Seidou scoreless!
+Dialogue: 5,0:04:49.39,0:04:52.02,Default,Announcer,0,0,0,,{\an8}It's the fourth game of the spring invitational quarterfinals.
+Dialogue: 5,0:04:52.02,0:04:54.02,Default,Announcer,0,0,0,,{\an8}The score has remained 0-2 since the first inning.
+Dialogue: 5,0:04:54.02,0:04:56.53,Default,Announcer,0,0,0,,{\an8}In the bottom of the seventh,\N Komadai Fujimaki is now up to bat.
+Dialogue: 5,0:05:10.96,0:05:13.96,Default,Announcer,0,0,0,,{\an8}Up at bat is their ace, Hongou Masamune!
+Dialogue: 5,0:05:39.24,0:05:41.49,Default,Announcer,0,0,0,,{\an8}Swing and a miss on an outside pitch!
+Dialogue: 5,0:06:23.53,0:06:25.16,Default,Announcer,0,0,0,,{\an8}And it's caught!
+Dialogue: 5,0:06:25.16,0:06:27.03,Default,Announcer,0,0,0,,{\an8}Right to the left fielder!
+Dialogue: 5,0:06:27.37,0:06:31.54,Default,Announcer,0,0,0,,{\an8}This round of the ace battle goes to Furuya!
+Dialogue: 5,0:06:53.43,0:06:54.81,Default,Announcer,0,0,0,,{\an8}Two in a row!
+Dialogue: 5,0:06:54.81,0:06:57.10,Default,Announcer,0,0,0,,{\an8}That's his tenth strikeout!
+Dialogue: 5,0:07:04.40,0:07:09.45,Default,Announcer,0,0,0,,{\an8}With his form improving,\N he's had perfect fifth, sixth, and seventh innings!
+Dialogue: 5,0:07:58.17,0:08:04.67,Default,Announcer,0,0,0,,{\an8}Batting first in the top of the eighth for Seidou High School is the third baseman, Kanemaru.
