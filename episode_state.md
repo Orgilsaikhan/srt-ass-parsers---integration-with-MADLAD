@@ -2,7 +2,7 @@
 
 Running context for the EN→MN subtitle project. Update every ~50 translated lines.
 
-## Progress
+## Progress LALAR
 
 | Episode | Raw | Output | Status |
 |---|---|---|---|
