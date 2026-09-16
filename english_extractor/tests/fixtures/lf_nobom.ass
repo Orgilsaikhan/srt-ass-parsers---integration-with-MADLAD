@@ -1,0 +1,22 @@
+; exported by a non-Aegisub tool, no BOM
+[Script Info]
+Title: LF file  
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Custom Metadata]
+Translator: unknown
+Notes: keep this section verbatim, the parser does not know it
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.00,0:00:12.00,Default,,0,0,0,,Is anyone there?
+Dialogue: 0,0:00:12.50,0:00:15.00,Default,,0,0,0,,Just me, the wind, and the rain.   
+
+Dialogue: 0,0:00:15.10,0:00:17.00,Default,,0,0,0,,...
+Dialogue: 0,0:00:17.10,0:00:19.00,Default,,0,0,0,,Fine. Come in, then.

@@ -1,0 +1,21 @@
+﻿[Script Info]
+Title: Custom format export
+Original Script: legacy converter 1.4
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Top,Tahoma,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1,1,8,20,20,20,1
+
+[Events]
+Format: Marked, Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0,0:00:00.50,0:00:02.00,Default,,0000,0000,0000,,Where were you last night?
+Dialogue: Marked=0,0,0:00:02.10,0:00:04.00,Default,,0000,0000,0000,,Out. Does it matter?
+Dialogue: Marked=0,1,0:00:04.10,0:00:06.00,Top,,0000,0000,0020,Banner;10;0;20,BREAKING NEWS: storm warning issued for the coast
+Dialogue: Marked=0,0,0:00:06.10,0:00:08.00,Default,,0000,0000,0000,,It matters to me, Sam.
+Comment: Marked=0,0,0:00:08.00,0:00:08.00,Default,,0000,0000,0000,,timing checked

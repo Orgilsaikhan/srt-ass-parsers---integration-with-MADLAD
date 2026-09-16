@@ -1,0 +1,4 @@
+regex>=2023.0
+
+# Testing
+pytest>=8.0
